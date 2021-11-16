@@ -7,8 +7,8 @@ This set of modules is a Python 3.x based framework for Web testing.
 To be able to run tests you have to install Python 3.x and the following external 
 libraries:
 
-0. Python 3.x 
-1. Execute the following command to install all requirements from the framework root directory:
+1. Python 3.x 
+2. Execute the following command to install all requirements from the framework root directory:
 
     >> pip3 install -U -r python_requirements.txt
 
